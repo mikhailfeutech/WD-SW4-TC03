@@ -57,10 +57,9 @@ This project showcases distinct design layouts for different features centered a
 - Responsive and visually appealing layouts.
 
 ### Technology
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
+- HTML for structuring the content.
+- CSS for styling and layout design.
+- JS for animation.
 
 ```
 WD-S4-TC03
