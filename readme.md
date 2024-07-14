@@ -69,7 +69,8 @@ This project showcases distinct design layouts for different features centered a
 5. Use only `External CSS`.
 6. Folder names must be descriptive of their content or purpose.
 7. Follow the file structure below.
-Stick-Man-Feature-Display
+```
+WD-S4-TC03
 └─ assets
 | └─ css
 | | └─ style.css
@@ -89,10 +90,14 @@ Stick-Man-Feature-Display
 | └─ index.html
 └─ index.html
 └─ README.md
+```
+## Resources
 
 ## Resources
 
 | Title | Purpose | Link |
 |-------|---------|------|
-| Stick Man Game | Interactive game feature showcasing stick man movement. | [Link to Game](#) |
-| Stick Man Animation | Feature demonstrating stick man animation. | [Link to Animation](#) |
+| HTML5 | For structuring content on the web | [W3Schools](https://www.w3schools.com/html/) |
+| CSS3  | For styling web content           | [W3Schools](https://www.w3schools.com/css/) |
+| HTML5 & CSS3  |For Website Footer using Html & CSS|[Youtube](https://www.youtube.com/watch?v=UpkEANWC2Ms)|
+| HTML5 & CSS3  |For Website Footer using Html & CSS|[Youtube](https://www.youtube.com/watch?v=SgmNxE9lWcY)|
