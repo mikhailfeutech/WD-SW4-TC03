@@ -61,14 +61,7 @@ This project showcases distinct design layouts for different features centered a
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-## Rules, Practices and Principles
-1. Always use `WD-` in the front of the title of the project for the subject followed by your custom naming.
-2. Do not rename any .html files; always use `index.html` as the filename.
-3. Place files in their respective folders.
-4. All file naming should use lower-kebab-case.
-5. Use only `External CSS`.
-6. Folder names must be descriptive of their content or purpose.
-7. Follow the file structure below.
+
 ```
 WD-S4-TC03
 └─ assets
