@@ -66,17 +66,21 @@ WD-S4-TC03
 └─ assets
 | └─ css
 | | └─ style.css
-| └─ img
-| | └─ fileWith.jpeg/.jpg/.webp/.png
 | └─ js
 | └─ script.js
 └─ pages
-| └─ pageName
+| └─ Stickman1
 | └─ assets
 | | └─ css
 | | | └─ style.css
 | | └─ img
-| | | └─ fileWith.jpeg/.jpg/.webp/.png
+| | | └─ stickman2.png
+| | | └─ sticman.png
+| | └─ js
+| | └─ script.js
+| └─ Stickman2
+| | └─ css
+| | | └─ style.css
 | | └─ js
 | | └─ script.js
 | └─ index.html
